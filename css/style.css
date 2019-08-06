@@ -114,6 +114,7 @@ nav{
 }
 .button-welcome-body input{
 	background: none !important
+	background: none !important;
 	border: none !important;
 	cursor: pointer !important;
 }
