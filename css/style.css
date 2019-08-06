@@ -113,9 +113,9 @@ nav{
     z-index: 1;
 }
 .button-welcome-body input{
-	background: none;
-	border: none;
-	cursor: pointer;
+	background: none !important
+	border: none !important;
+	cursor: pointer !important;
 }
 .button-welcome-body-label{
     color: #fff;
